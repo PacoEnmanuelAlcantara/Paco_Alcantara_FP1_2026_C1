@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1769994235 source:c:\users\goril\onedrive\escritorio\c\ejercicios capitulo 3\loteka\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
