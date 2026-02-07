@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1770435495 source:c:\users\goril\onedrive\escritorio\tarea 4\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
