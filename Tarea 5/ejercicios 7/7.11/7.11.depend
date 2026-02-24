@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1771813993 source:c:\users\goril\onedrive\escritorio\ejercicios 7\7.11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
